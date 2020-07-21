@@ -1,6 +1,6 @@
 #!/home/belhassen/Desktop/dashboard0/venv/bin/python
 
-# Author:
+# Author: 
 # Contact: grubert@users.sf.net
 # Copyright: This module has been placed in the public domain.
 
